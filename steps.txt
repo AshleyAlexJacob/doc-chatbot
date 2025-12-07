@@ -1,0 +1,12 @@
+1. Clone repository
+2. Virtual Environment setup, packages install
+Create a requirements file
+ipykernel
+langchain
+langchain-google-genai
+python-dotenv
+streamlit
+3. Google AI Studio, get api key
+4. Copy api key and create a .env file
+and paste in it GOOGLE_API_KEY=YOUR-API-KEY
+
